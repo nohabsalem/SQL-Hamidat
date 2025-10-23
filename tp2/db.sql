@@ -1,4 +1,7 @@
 /* 
+
+N'ayant pas fini le tp2, je soumets ce que j'ai fait jusqu'à présent.
+
 * question 1
 Augmenter de 10 % le salaire de tous les pilotes dont la commission est nulle
 */
